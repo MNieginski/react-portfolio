@@ -10,6 +10,18 @@
       "live": "https://scenic-shenanigans-edd3a3d09050.herokuapp.com/",
       "git": "https://github.com/MNieginski/Seaside_Shenanigans_Squad",
       "image": "https://raw.githubusercontent.com/MNieginski/Seaside_Shenanigans_Squad/main/public/images/wireframe-homepage.jpg"
+    },
+    {
+      "name": "GiphySearch",
+      "live": "https://mnieginski-giphy-api-app.netlify.app/",
+      "git": "https://github.com/MNieginski/GiphySearch",
+      "image": ""
+    },
+    {
+      "name": "Food Tracker",
+      "live": "https://mn-food-tracker.netlify.app/",
+      "git": "https://github.com/MNieginski/FoodTracker",
+      "image": ""
     }
   ]
   
